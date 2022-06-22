@@ -1,6 +1,6 @@
 Hi I'm Benjamin Crawford!
+University of California, San Diego Jacobs School of Engineering Class of 2021
+Bachelor of Science, Electrical Engineering; Depth in Machine Learning and Digital Signal Processing
 
-I'm currently a fourth year Electrical Engineering Student at the University of California, San Diego.
 
-I'm interested in Machine Learning and Digital Signal Processing.
 
